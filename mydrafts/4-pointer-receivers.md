@@ -14,4 +14,4 @@
 
 ---
 
-[上一节：方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md) | [下一节：指针与函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/5-pointers-and-functions.md)
+[上一节：方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md) | [返回目录](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/0-mydrafts-readme.md) | [下一节：指针与函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/5-pointers-and-functions.md)

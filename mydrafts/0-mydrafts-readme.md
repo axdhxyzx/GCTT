@@ -29,7 +29,7 @@
 via: https://tour.golang.org/
 
 作者：[golang.org](https://golang.org/)
-译者：[译者axdhxyzx](https://github.com/axdhxyzx)
-校对：[校对者axdhxyzx](https://github.com/axdhxyzx)
+译者：[axdhxyzx](https://github.com/axdhxyzx)
+校对：[axdhxyzx](https://github.com/axdhxyzx)
 
 本文由 [GCTT](https://github.com/studygolang/GCTT) 原创编译，[Go 中文网](https://studygolang.com/) 荣誉推出

@@ -8,4 +8,4 @@
 
 ---
 
-[上一节：指针接收器](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/4-pointer-receivers.md) | [下一节：方法与间接指针](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/6-methods-and-pointer-indirection.md)
+[上一节：指针接收器](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/4-pointer-receivers.md) | [返回目录](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/0-mydrafts-readme.md) | [下一节：方法与间接指针](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/6-methods-and-pointer-indirection.md)

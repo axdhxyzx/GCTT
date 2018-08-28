@@ -6,4 +6,4 @@
 
 ---
 
-[上一节：方法](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/1-methods.md) | [下一节：方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md)
+[上一节：方法](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/1-methods.md) | [返回目录](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/0-mydrafts-readme.md) | [下一节：方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md)

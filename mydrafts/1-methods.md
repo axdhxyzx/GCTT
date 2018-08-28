@@ -10,4 +10,4 @@ Go没有类(class)，但是你能够在类型上定义方法。
 
 ---
 
-这已经是第一节了 | [下一节：方法也是函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/2-methods-are-functions.md)
+这已经是第一节了 | [返回目录](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/0-mydrafts-readme.md) | [下一节：方法也是函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/2-methods-are-functions.md)
