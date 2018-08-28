@@ -4,21 +4,21 @@
 
 ### 方法与接口
 
-1. [方法]() | 原文[Methods](https://tour.golang.org/methods/1)
+1. [方法](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/1-methods.md) | 原文[Methods](https://tour.golang.org/methods/1)
 
-2. [方法也是函数]() | 原文[Methods are functions](https://tour.golang.org/methods/2)
+2. [方法也是函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/2-methods-are-functions.md) | 原文[Methods are functions](https://tour.golang.org/methods/2)
 
-3. [方法（续）]() | 原文[Methods continued](https://tour.golang.org/methods/3)
+3. [方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md) | 原文[Methods continued](https://tour.golang.org/methods/3)
 
-4. [指针接收器]() | 原文[Pointer receivers](https://tour.golang.org/methods/4)
+4. [指针接收器](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/4-pointer-receivers.md) | 原文[Pointer receivers](https://tour.golang.org/methods/4)
 
-5. [指针与函数]() | 原文[Pointers and functions](https://tour.golang.org/methods/5)
+5. [指针与函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/5-pointers-and-functions.md) | 原文[Pointers and functions](https://tour.golang.org/methods/5)
 
-6. [方法与间接指针]() | 原文[Methods and pointer indirection](https://tour.golang.org/methods/6)
+6. [方法与间接指针](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/6-methods-and-pointer-indirection.md) | 原文[Methods and pointer indirection](https://tour.golang.org/methods/6)
 
-7. [方法与间接指针 2]() | 原文[Methods and pointer indirection (2)](https://tour.golang.org/methods/7)
+7. [方法与间接指针 2](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/7-methods-and-pointer-indirection-2.md) | 原文[Methods and pointer indirection (2)](https://tour.golang.org/methods/7)
 
-8. [值类型或指针类型接收器的选择]() | 原文[Choosing a value or pointer receiver](https://tour.golang.org/methods/8)
+8. [值类型或指针类型接收器的选择](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/8-choosing-a-value-or-pointer-receiver.md) | 原文[Choosing a value or pointer receiver](https://tour.golang.org/methods/8)
 
 
 

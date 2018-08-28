@@ -11,3 +11,7 @@
 尝试从第16行的```Scale```函数的定义中移除```*```，并观察程序的行为会发生什么样变化。
 
 带有值类型接收器的```Scale```方法是在```Vertex```值的一个拷贝副本上进行操作，而不是在原始值上（这与任何其他函数的参数具有相同的行为），```Scale```方法必须使用一个指针类型接收器，以便改变在```main```函数中定义的```Vertex```类型变量的值。
+
+---
+
+[上一节：方法（续）](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/3-methods-continued.md) | [下一节：指针与函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/5-pointers-and-functions.md)

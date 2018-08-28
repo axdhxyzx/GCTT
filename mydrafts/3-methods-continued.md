@@ -5,3 +5,7 @@
 在这个例子中，我们看到一个数值类型```MyFloat```带有一个```Abs```方法。
 
 你能定义一个方法，这个方法的接收器类型跟这个方法都定义在相同的包里，但是你不能在一个包里定义方法，而它的接收器类型却定义在另一个包里（这包括内建类型，比如```int```）。
+
+---
+
+[上一节：方法也是函数](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/2-methods-are-functions.md) | [下一节：指针接收器](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/4-pointer-receivers.md)

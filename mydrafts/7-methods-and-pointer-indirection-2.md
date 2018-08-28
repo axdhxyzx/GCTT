@@ -18,3 +18,7 @@ fmt.Println(p.Abs()) // 对
 ```
 
 在这种情况下，方法调用语句```p.Abs()```被翻译为```(*p).Abs()```。
+
+---
+
+[上一节：方法与间接指针](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/6-methods-and-pointer-indirection.md) | [下一节：值类型或指针类型接收器的选择](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/8-choosing-a-value-or-pointer-receiver.md)

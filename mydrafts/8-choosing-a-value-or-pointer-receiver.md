@@ -9,3 +9,7 @@
 在这个示例代码中，```Scale```和```Abs```这2个方法都使用了```*Vertex```类型的接收器，即便```Abs```方法不需要修改它的接收器。
 
 一般来说，在一个给定类型上，所有的方法应该或者有一个值类型接收器，或者有一个指针类型接收器，而不是把这两种类型混合在一起使用（我们将会在接下来的几页中了解到为什么这么说）。
+
+---
+
+[上一节：方法与间接指针 2](https://github.com/axdhxyzx/GCTT/blob/my_branch/mydrafts/7-methods-and-pointer-indirection-2.md) | 未完待续
